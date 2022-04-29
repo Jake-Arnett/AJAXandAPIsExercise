@@ -1,0 +1,21 @@
+html{
+    background-color: aliceblue;
+    color: indigo;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 100;
+    
+}
+
+div {
+    border: 5px solid palevioletred;
+    padding: 2px;
+    background-color: blanchedalmond;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    padding: 20px;
+    
+  }
+
